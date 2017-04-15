@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyEngEmprove</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Green Forest </string>
+    <string name="chekResult">Проверить результат</string>
+    <string name="showCorrectAnss">Не знаю :( </string>
+    <string name="dictionary">Словарь</string>
+    <string name="dell"> Удалить</string>
+    <string name="editWord">Редактировать</string>
+    <string name="next">Следующий вопрос </string>
+    <string name="Unit">Введите Unit</string>
+    <string name="myAnswer">Введи сюда ответ </string>
+    <string-array name="units">
+        <item>Unit0</item>
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Unit6</item>
+        <item>Unit7</item>
+    </string-array>
+</resources>
